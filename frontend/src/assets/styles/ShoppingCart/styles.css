@@ -1,0 +1,22 @@
+.panelStyle2 {
+    padding: 10px;
+    height: 100vh;
+    width: 50vw;
+    background: #bbdefb;
+}
+
+.panelStyle2 h2{
+    text-align: center;
+}
+
+.panelStyle2 td {
+    text-align: center;
+}
+
+.panelStyle2 td .tdname {
+    width: 100px;
+}
+
+.panelStyle2 .tdprice {
+    width: 70px;
+}
